@@ -1,1 +1,3 @@
-th
+A **smart robotic flower** is an innovative blend of technology, design, and nature-inspired engineering. It is a robotic device modeled after a real flower, equipped with sensors, actuators, and artificial intelligence to mimic the behaviors or characteristics of living plants. These flowers can detect environmental factors such as light, temperature, humidity, and sound, and respond dynamically — for example, opening petals in sunlight, rotating toward a light source, or closing when it’s dark.
+
+Some versions are interactive, reacting to human presence with movement or color changes, making them appealing for educational, artistic, or therapeutic uses. In research, they serve as tools for studying plant-like robotics, responsive design, and environmental monitoring. Overall, smart robotic flowers combine aesthetics and function, demonstrating how robotics can simulate life and create harmony between technology and nature.
